@@ -1,0 +1,18 @@
+.mod-tit {
+	background: no-repeat;
+	color:blue;
+	font-size: 28px;
+	height: 50px;
+	line-height: 50px;
+	margin:32px 0;
+	padding-left: 60px;
+}
+.tszl {
+	background-image: url(../images/tit_tslm.png);
+}
+#wkq{
+  padding-top:100px;
+  line-height:50px;
+  time:20:10;
+  date:2017/10/15;
+}
